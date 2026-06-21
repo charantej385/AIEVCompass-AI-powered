@@ -38,11 +38,11 @@ Both run inside Streamlit via a custom UI.
 
 | Component | Tools |
 |----------|-------|
-| ML Models | scikit-learn, numpy, pandas |
+| ML Models | Random Forest |
 | LLM | transformers, DialoGPT-small, PyTorch |
 | Frontend | Streamlit |
 | Notebooks | Jupyter, matplotlib, seaborn |
-| Deployment | Gunicorn, Torch CPU |
+| Deployment | HuggingFace |
 
 ---
 
@@ -118,7 +118,7 @@ Models return:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/sampathmagapu/AIEVCompass-AI-Powered-EV-Consultant-.git
+git clone https://github.com/charantej385/AIEVCompass-AI-powered-.git
 cd AIEVCompass-AI-Powered-EV-Consultant-
 ```
 
@@ -178,9 +178,9 @@ streamlit run app/app.py
 
 ## 👨‍💻 Author
 
-**Sampath Magapu**
-📧 Email: *[sampathmagapu11@gmail.com](mailto:sampathmagapu11@gmail.com)*
-🔗 LinkedIn: [https://www.linkedin.com/in/sampath-magapu-9b5102253/](https://www.linkedin.com/in/sampath-magapu-9b5102253/)
-💻 GitHub: [https://github.com/sampathmagapu](https://github.com/sampathmagapu)
+**V Charan tej goud**
+📧 Email: *[vcharantejgoud@gmail.com](mailto:vcharantejgoud@gmail.com)*
+🔗 LinkedIn: [https://www.linkedin.com/in/v-charan-tej-goud-6aa22a314/](https://www.linkedin.com/in/v-charan-tej-goud-6aa22a314/)
+💻 GitHub: [https://github.com/charantej385](https://github.com/charantej385)
 
 ```
